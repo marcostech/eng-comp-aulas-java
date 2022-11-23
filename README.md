@@ -1,2 +1,3 @@
-# Repositorio para disciplina Prática integradora de Software
-### Disciplina irá utilizar Java - JavaScript - NodeJs - SpringBoot - Bootstrap
+# Java desktop Serial Read
+## em uso ->
+![screenshot](../java-projeto/projeto1/img1.png)
