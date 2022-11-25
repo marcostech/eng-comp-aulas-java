@@ -21,7 +21,7 @@
 ## Características
 
 * Seletor Porta Com
-  - Veja no menu dropdown as portas disponiveis no computador e seu fabricante.
+  - Veja no menu dropdown as portas disponiveis no computador.
 * Recebe e exibe o status de carga
   - Enquanto carrega, o sistema envia os dados e o monitor os recebe e exibe.
 * Recebe e exibe as configuraçõe do modo de carga
