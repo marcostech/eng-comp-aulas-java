@@ -14,9 +14,10 @@
   <a href="#download">Download / Clone</a> •
   <a href="#credits">Creditos</a> •
 </p>
-<div style="display:flex; justify-content: center; align-items: center">
-<img src="./java-monitor-de-carga/projeto1/anima.gif" alt="Monitor de Carga" width="200">
-</div>
+<p align="center" >
+    <img src="./java-monitor-de-carga/projeto1/anima.gif" alt="Monitor de Carga" width="200">
+</p >
+
 ## Características
 
 * Seletor Porta Com
