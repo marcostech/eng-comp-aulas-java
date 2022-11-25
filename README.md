@@ -14,7 +14,7 @@
   <a href="#download">Download / Clone</a> •
   <a href="#credits">Creditos</a> •
 </p>
-<div style="text-align: center">
+<div style="display:flex; justify-content: center">
 <img src="./java-monitor-de-carga/projeto1/anima.gif" alt="Monitor de Carga" width="200">
 </div>
 ## Características
