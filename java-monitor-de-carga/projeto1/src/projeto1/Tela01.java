@@ -676,7 +676,18 @@ public class UpdateUtils{
         lblTensaoMax.setText(leituraArray[4].substring(6));
         lblTensaoMin.setText(leituraArray[5].substring(6));
         lblTempoMax.setText(leituraArray[6].substring(6)+" Horas");
-        lblModoSistema.setText(leituraArray[7].substring(6));
+        
+        /*  
+            System mode descripton
+            System mode 0 = Default do sistema
+            System mode 1 = Modo Automatico
+            System mode 2 = Modo Tracionario
+            System mode 3 = Modo Bloqueador
+        */
+        if("0".equals(leituraArray[7].substring(6))) { lblModoSistema.setText("Default"); }
+        if("1".equals(leituraArray[7].substring(6))) { lblModoSistema.setText("Automático"); }
+        if("2".equals(leituraArray[7].substring(6))) { lblModoSistema.setText("Tracionário"); }
+        if("3".equals(leituraArray[7].substring(6))) { lblModoSistema.setText("Bloqueador"); }
     }    
 }
 
