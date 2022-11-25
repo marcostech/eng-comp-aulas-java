@@ -15,7 +15,7 @@
   <a href="#credits">Creditos</a> •
 </p>
 <p align="center" >
-    <img src="./java-monitor-de-carga/projeto1/anima.gif" alt="Monitor de Carga" width="200">
+    <img src="./java-monitor-de-carga/projeto1/anima.gif" alt="Monitor de Carga">
 </p >
 
 ## Características
