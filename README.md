@@ -32,7 +32,7 @@
 * Cross platform ready - Java JVM
   - Atraves da JVM é possivel rodar em sistemas Windows, Linux e Mac
 
-## Como usar
+## Como-usar
 
 Para usar esta aplicação é necessário obedecer ao padrão de transmissão abaixo. Uma vez que o sistema alvo esteja enviando os dados, o Monitor de carga irá receber e processar. Para ter um guia de sistema que utiliza o recurso veja o Sistema MUF800R00 [Github](https://github.com/marcostech/Projetos_Sistemas_Embarcados). 
 Este padrão de transmissão foi escrito na linguagem utilizada na plataforma Arduino, portanto pode ser usado em seu projeto sem a adição de outras bibliotecas.
@@ -84,7 +84,7 @@ O baudrate do sistema deve ser 115200.
 > Se você não estiver usando estas funções para envio de dados na porta Serial basta enviar os dados conforme está descrito no exemplo (<,...Pacote1,Pacote2,...,>'newLineChar'), prestando atenção no 'new Line char' que só deve ser enviado ao final.
 
 
-## Download / Clone
+## Download-Clone
 
 Você pode fazer o clone do projeto e então sua build para a plataforma alvo ou se preferir pode baixar o arquivo .jar e rodar direto em sua máquina!
 
