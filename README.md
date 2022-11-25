@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="./java-monitor-de-carga/projeto1/battery.png" alt="Monitor de Carga" width="200"></a>
+  <a href="#"><img src="./java-monitor-de-carga/projeto1/icon2.png" alt="Monitor de Carga" width="200"></a>
   <br>
   Monitor de carga - Java
   <br>
