@@ -9,10 +9,10 @@
 <h4 align="center">Leitor Serial para uso em conjuto com sistema Arduino usando Java.</h4>
 
 <p align="center">
-  <a href="#key-features">Características</a> •
-  <a href="#how-to-use">Como usar</a> •
-  <a href="#download">Download / Clone</a> •
-  <a href="#credits">Creditos</a> •
+  <a href="#Características">Características</a> •
+  <a href="#Como Usar">Como usar</a> •
+  <a href="#Download / Clone">Download / Clone</a> •
+  <a href="#Creditos">Creditos</a> •
 </p>
 <p align="center" >
     <img src="./java-monitor-de-carga/projeto1/anima.gif" alt="Monitor de Carga">
