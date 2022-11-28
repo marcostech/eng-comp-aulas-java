@@ -90,7 +90,7 @@ O baudrate do sistema deve ser 115200.
 
 ## Download-Clone
 
-Você pode fazer o clone do projeto e então sua build para a plataforma alvo ou se preferir pode baixar o arquivo .jar e rodar direto em sua máquina!
+Você pode fazer o clone do projeto e então sua build para a plataforma alvo ou se preferir pode baixar o arquivo [dist.rar](https://github.com/marcostech/eng-comp-aulas-java/blob/main/dist.rar), extrair e rodar direto em sua máquina!
 
 ## Creditos
 
