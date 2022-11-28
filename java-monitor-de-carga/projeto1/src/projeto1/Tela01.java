@@ -15,7 +15,8 @@ import javax.swing.UIManager;
  */
 public class Tela01 extends javax.swing.JFrame {
     //Global ports
-    SerialPort portasSerial[] = UpdateUtils.updateSerial();
+    UpdateUtils updater = new UpdateUtils();
+    SerialPort portasSerial[] = updater.updateSerial();
     /**
      * Creates new form Tela01
      */
@@ -430,7 +431,8 @@ public class Tela01 extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         //Combobox populate
-        portasSerial = UpdateUtils.updateSerial();
+        UpdateUtils updater = new UpdateUtils();
+        portasSerial = updater.updateSerial();
         Boolean addItem = false;
         for(SerialPort porta : portasSerial){
             for(int i = 0; i < jComboBox1.getItemCount(); i++){
@@ -647,7 +649,7 @@ private final class MessageListener implements SerialPortMessageListener
 
 public class UpdateUtils{
     
-    public static SerialPort[] updateSerial(){
+    public SerialPort[] updateSerial(){
         SerialPort serialPorts[] = SerialPort.getCommPorts();            
         return serialPorts;
     }
