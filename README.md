@@ -33,7 +33,7 @@
   - Atraves da JVM é possivel rodar em sistemas Windows, Linux e Mac
 
 <p align="center" >
-    <img src="./java-monitor-de-carga/projeto1/img2.png" alt="Monitor de Carga Linux">
+    <img src="./java-monitor-de-carga/projeto1/img2.png" alt="Monitor de Carga Linux" width="200">
 </p>
 
 ## Como-usar
