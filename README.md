@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Leitor Serial para uso em conjuto com sistema Arduino usando Java.</h4>
+<h4 align="center">Leitor Serial para uso em conjuto com sistema Arduino usando Java 11</h4>
 
 <p align="center">
   <a href="#Características">Características</a> •
@@ -30,10 +30,10 @@
 * Barra de status de carga animada
 * Compatível com sistemas que utilizam protocolo UART (Ex.: Arduino) 
 * Cross platform ready - Java JVM
-  - Atraves da JVM é possivel rodar em sistemas Windows, Linux e Mac
+  - Atraves da JVM é possivel rodar em sistemas Windows e Linux
 
 <p align="center" >
-    <img src="./java-monitor-de-carga/projeto1/img2.png" alt="Monitor de Carga Linux" width="200">
+    <img src="./java-monitor-de-carga/projeto1/img2.png" alt="Monitor de Carga Linux" width="300">
 </p>
 
 ## Como-usar
