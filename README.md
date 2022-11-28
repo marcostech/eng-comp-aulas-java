@@ -16,7 +16,7 @@
 </p>
 <p align="center" >
     <img src="./java-monitor-de-carga/projeto1/anima.gif" alt="Monitor de Carga">
-</p >
+</p>
 
 ## Características
 
@@ -31,6 +31,10 @@
 * Compatível com sistemas que utilizam protocolo UART (Ex.: Arduino) 
 * Cross platform ready - Java JVM
   - Atraves da JVM é possivel rodar em sistemas Windows, Linux e Mac
+  
+<p align="center" >
+    <img src="./java-monitor-de-carga/projeto1/linux.png" alt="Monitor de Carga Linux">
+</p>
 
 ## Como-usar
 
